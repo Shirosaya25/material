@@ -1,0 +1,13 @@
+.container {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90%;
+}
+
+.no-data-card {
+
+    height: 50%;
+    width: 80%;
+}
